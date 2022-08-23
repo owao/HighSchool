@@ -1,0 +1,10 @@
+who=input("누가")
+when=input("언제")
+where=input("어디서")
+what=input("무엇을")
+why=input("왜")
+reporter=input("기자이름")
+
+print("HANA NEWS")
+print(who+"은(는)",when,where+"에서",why,what+"을(를) 실시했다.")
+print(reporter+"기자")
